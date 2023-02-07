@@ -27,6 +27,10 @@ Pour approfondir cette analyse, nous avons mené une étude comparative pour dé
 
 ![quantity_price](https://user-images.githubusercontent.com/82402218/215469500-9412f355-ceb1-4dfe-8a09-0e2f8cc89e7e.png)
 
+Pour connaître le meilleur moment pour lancer une campagne publicitaire, nous avons calculé le nombre de commandes par heure. Nous nous sommes aperçus que nous faisions plus de commandes entre 12h et 13h et entre 18h et 20h.
+Nous pouvons conclure que la meilleure période pour faire une campagne publicitaire est en dehors des heures de pointe (pause déjeuner et après le travail).
+
 ![campagen_pub](https://user-images.githubusercontent.com/82402218/215469474-614c6bf0-9e72-47de-8267-55923398de3e.png)
+
 
 ![sales_per_city](https://user-images.githubusercontent.com/82402218/215469529-2f2db0d8-1416-4010-917a-cd461072efb4.png)
