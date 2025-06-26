@@ -14,10 +14,10 @@ En ce qui concerne la première question, nous avons calculé les ventes mensuel
 Pour répondre à la seconde question, nous avons compté le nombre de commandes dans chacune des catégories de produits. Nous avons remarqué que les cinq produits qui se vendent le mieux sont les suivants :
 <ol>
     <li>AAA Batteries (4-pack)</li>
-    <li>AAA Batteries (4-pack)</li>
     <li>AA Batteries (4-pack)</li>
     <li>USB-C Charging Cable (4-pack)</li>
     <li>Lightning Charging Cable</li>
+    <li>Wired Headphones </li>
 </ol>
 Le graphique suivant illustre bien la quantité vendue pour chacun des produits.
 
